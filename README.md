@@ -5,6 +5,9 @@ Languages: Python, C++
 What I'm learning:
 - React with Typescript
 
+What I'm working on:
+- Programs using computer vision to generate waypoints for a robot built by [UM Autonomous Robotic Vehicle](https://github.com/umigv) to compete at IGVC.
+
 Projects:
 - [NxNCube](https://github.com/adsuri/NxNCube): A terminal-based C++ program that lets you manipulate a Rubik's Cube of any size. Includes the option to scramble, and reset the cube, and also lets you time your solves.
 
