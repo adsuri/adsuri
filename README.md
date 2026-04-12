@@ -10,7 +10,7 @@ What I'm working on:
 
 Personal Projects:
 - [NxNCube](https://github.com/adsuri/NxNCube): A terminal-based C++ program that lets you manipulate a Rubik's Cube of any size. Includes the option to scramble, and reset the cube, and also lets you time your solves.
-- [Genetic PCA Visualizer/Process](https://github.com/adsuri/genetic-pca): A python notebook that features the step-by-step process of running Principal Component Analysis (PCA) on genetic data.
+- [Genetic PCA Explainer/Visualizer](https://github.com/adsuri/genetic-pca): A python notebook that features the step-by-step process of running Principal Component Analysis (PCA) on genetic data.
 
 Silly Projects:
 - [Salamancify](https://github.com/adsuri/salamancify): A Python program that reads in a message from a text file and prints it out in real time imitating the method used by Hector Salamanca (Breaking Bad/Better Call Saul) to communicate with others using his bell.
